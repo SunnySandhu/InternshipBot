@@ -1,3 +1,7 @@
+/*
+Maintains list of comments replied to, to
+prevent double commenting same thread
+*/
 dq5gg2k
 dq5ib1v
 dq5idrq
