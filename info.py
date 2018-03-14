@@ -1,6 +1,4 @@
-/*
-Stores login and api info
-*/
+//Stores login and api info
 
 username =  "InternshipBot"
 password = "Limitless356"
