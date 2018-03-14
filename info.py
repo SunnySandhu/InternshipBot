@@ -1,3 +1,7 @@
+/*
+Stores login and api info
+*/
+
 username =  "InternshipBot"
 password = "Limitless356"
 client_id = "-MoVyhfp2ZTtdA"
