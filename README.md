@@ -23,8 +23,9 @@ Run the following:
 ```
 >python reddit_bot.py
 ```
-
-
+## Version
+* V0.2: 
+* V0.1: A reddit bot to help find college students internships
 
 ## Credits
 The credits for this goes to [busterroni11](https://www.youtube.com/channel/UCBN_m9Ygp2y6ndNoO4O2Nww)
