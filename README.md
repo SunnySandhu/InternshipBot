@@ -24,7 +24,7 @@ Run the following:
 >python reddit_bot.py
 ```
 ## Version
-* V0.2: 
+* V0.2: Changed default subreddit from /r/test to /r/carletonu
 * V0.1: A reddit bot to help find college students internships
 
 ## Credits
