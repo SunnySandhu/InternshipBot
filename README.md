@@ -12,7 +12,7 @@ There are three files  included in this repository
 * Python 3.x
 * PRAW
 
-Install PRAW with [pip](https://pypi.python.org/pypi/pip)
+Install PRAW with [pip](https://pypi.python.org/pypi/pip):
 ```
 >git clone git@github.com:SunnySandhu/IntershipBot.git
 >cd InternshipBot
